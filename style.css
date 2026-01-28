@@ -8,8 +8,8 @@ body {
 .banner {
   background-image: url("https://github.com/blackbelt9122008-boop/web1/blob/main/550641186_1371519951644358_6966264416189567695_n.jpg?raw=true");
   background-size: cover;
-  padding-top: 7rem;
-  padding-bottom: 25rem;
+  padding-top: 10rem;
+  padding-bottom: 20rem;
   text-align: center !important;
   color: rgba(255, 255, 255, 0.959) !important;
 }
